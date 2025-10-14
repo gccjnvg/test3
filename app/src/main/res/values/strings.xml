@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android界面组件实验</string>
+    <string name="show_dialog">Show Login Dialog</string>
+    <string name="test_text">用于测试的内容</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_in">Sign in</string>
+    <string name="menu_text_size">字体大小</string>
+    <string name="size_small">小（10号）</string>
+    <string name="size_medium">中（16号）</string>
+    <string name="size_large">大（20号）</string>
+    <string name="menu_normal">普通菜单项</string>
+    <string name="menu_text_color">字体颜色</string>
+    <string name="color_red">红色</string>
+    <string name="color_black">黑色</string>
+    <string name="notification_title">ListView选中通知</string>
+    <string name="context_menu_delete">Delete</string>
+</resources>
